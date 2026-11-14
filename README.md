@@ -11,7 +11,7 @@ The challenge involves building a social links profile page that displays a user
 ### Links
 
 - **Solution URL:** To be added after submission.
-- **Live Site URL:** To be added after deployment.
+- **Live Site URL:** https://big-tee10-social-profile-2026.netlify.app/.
 
 ## My Process
 
